@@ -1,0 +1,5 @@
+This file is here just so I can make a PR from here to main. And this PR was made as a workaround to this bug:
+
+https://github.com/endlessm/amalgamate-pages/issues/60
+
+We want a single link playable version of the game and due to that issue, main's version of the game is not being shown.
